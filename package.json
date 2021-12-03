@@ -1,0 +1,28 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrangdethuong/nodejs_education.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "linh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrangdethuong/nodejs_education/issues"
+  },
+  "homepage": "https://github.com/sunrangdethuong/nodejs_education#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
